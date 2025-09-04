@@ -1,4 +1,7 @@
 body{display: grid;
     justify-content: center;
     align-items: center;
-margin: auto;}
+    margin: auto;}
+header{display: grid;
+      gap: 1rem;}
+       
