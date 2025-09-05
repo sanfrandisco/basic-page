@@ -1,9 +1,10 @@
-.body{display: grid;
+.body {display: grid;
     justify-content: center;
     align-items: center;
     margin: auto;}
-.header{display: grid;
+.header {display: grid;
         grid-row:end
       gap: 1rem;}
        
+
 
