@@ -4,7 +4,9 @@
     margin: auto;}
 .header {display: grid;
         grid-row:end
+        align-items: center;
       gap: 1rem;}
        
+
 
 
